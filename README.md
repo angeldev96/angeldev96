@@ -54,8 +54,11 @@ src="https://vuejs.org/images/logo.svg" />][Vue]
 
 
 - I like to go to run in the mornings, I really like to watch movies and series.
-- My favourite saga for movies and books is Harry Potter <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
-- I'm a music lover, I listen Soft/Hard/Indie Rock, my favourite bands are The Stokes, Tame Impala and Cage the Elephant
+- My favorite saga for movies and books is Harry Potter <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
+
+<br/>
+
+- I'm a music lover, I listen Soft/Hard/Indie Rock, my favorite bands are The Stokes, Tame Impala and Cage the Elephant
 
 
 
