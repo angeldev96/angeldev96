@@ -6,12 +6,20 @@
 
 ### <img src="https://c.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="40"> A little more about me...  
 
-```go
+```go                     
+package main
 
+import "fmt"
 
-type Angel struct {
-	
-}                      
+func main() {
+	fullName := "Angel Valladares"
+	skills := [10]string{"vscode", "golang", "vue"}
+	fmt.Printf("Hello! my name is %s", fullName)
+	fmt.Println("My Skills are: ")
+	for i := 0; i < len(skills); i++ {
+		fmt.Println(skills[i])
+	}
+}
 
 ```
 
