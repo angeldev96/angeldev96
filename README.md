@@ -85,7 +85,8 @@ src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png
 [<img align="left" alt="angeldev996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="angeldev996 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="angeldev996 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
 
 <br/>
 
@@ -94,6 +95,8 @@ src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png
 [twitter]: https://twitter.com/_Angel996
 [instagram]: https://www.instagram.com/angel.va96/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/angel-ariel-valladares-422490159/
+[telegram]: https://t.me/AngelDev996
+
 
 [vscode]: https://code.visualstudio.com/
 [HTML5]: https://developer.mozilla.org/es/docs/Glossary/HTML5
