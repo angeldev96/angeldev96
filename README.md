@@ -1,5 +1,5 @@
-### Hi there, I'm Angel - aka [AngelDev996][website]👋
-Systems Enginner Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# Hi there, I'm Angel - aka [AngelDev996][website] <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
+## Systems Enginner Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - I have some experience with Java/Spring/MySQL/PostgreSQL/Bootstrap 
 - I'm currently learning about Backend Development in Go and Frontend Development in Vue.js
 
@@ -39,7 +39,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/
 <br />
 
 
-
+### My Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldev996)](https://github.com/anuraghazra/github-readme-stats)
 
 
