@@ -70,12 +70,12 @@ src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png
 ### Hobbies & Interests:
 
 
-- I like to go to run in the mornings, I really like to watch movies and series.
+- I like to go to run in the mornings, spend time with my family and friends and watch movies and series.
 - My favorite saga for movies and books is Harry Potter <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
 
 <br/>
 
-- I'm a music lover, I listen Soft/Hard/Indie Rock, my favorite bands are The Stokes, Tame Impala and Cage the Elephant
+- I'm a music lover, I listen Soft/Hard/Indie Rock, my favorite bands are The Stokes, Tame Impala and Cage the Elephant.
 
 
 
