@@ -13,3 +13,11 @@
 
 <br/>
 
+
+[website]: https://angeldev996.me
+[twitter]: https://twitter.com/_Angel996
+[instagram]: https://www.instagram.com/angel.va96/?hl=es-la
+[linkedin]: https://www.linkedin.com/in/angel-ariel-valladares-422490159/
+
+
+
