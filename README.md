@@ -38,6 +38,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldev996)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### My Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldev996)](https://github.com/anuraghazra/github-readme-stats)
