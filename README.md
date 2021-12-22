@@ -75,7 +75,7 @@ src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png
 
 <br/>
 
-- I'm a music lover, I listen Soft/Hard/Indie Rock, my favorite bands are The Stokes, Tame Impala and Cage the Elephant.
+- I'm a music lover, I listen Soft/Hard/Indie Rock, my favorite bands are The Strokes, Tame Impala, Cage the Elephant and Arctic Monkeys.
 
 
 
