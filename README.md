@@ -53,8 +53,8 @@ src="https://vuejs.org/images/logo.svg" />][Vue]
 ### Hobbies & Interests:
 
 
-I like to go to run in the mornings, I really like to watch movies and series.
-My favourite saga for movies and books is Harry Potter <img src="https://i.pinimg.com/originals/e3/71/f6/e371f605b5ed6d834810f14d36a44933.jpg" width="100">
+- I like to go to run in the mornings, I really like to watch movies and series.
+- My favourite saga for movies and books is Harry Potter <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="100">
 
 
 
