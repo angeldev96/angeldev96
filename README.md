@@ -70,8 +70,8 @@ src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png
 ### Hobbies & Interests:
 
 
-- I like to go to run in the mornings, spend time with my family and friends and watch movies and series.
-- My favorite saga for movies and books is Harry Potter <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
+- I like to run in the mornings, spend time with my family and friends and watch series and movies.
+- My favorite book and movie saga is Harry Potter <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
 
 <br/>
 
