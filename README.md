@@ -1,5 +1,5 @@
 # Hi there, I'm Angel - aka [AngelDev996][website] <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
-## Systems Enginneering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+## Systems Engineering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - I have worked with Java/Spring/MySQL/PostgreSQL/Bootstrap 
 - I'm currently learning Backend Development in Go and Frontend Development in Vue.js
 
