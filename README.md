@@ -26,9 +26,15 @@ func main() {
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-[<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
-[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+
+[<img align="left" alt="HTML5" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
+
+[<img align="left" alt="CSS3" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
+
+[<img align="left" alt="JavaScript" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 
 [<img align="left" alt="Go" width="66px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" />][Go]
@@ -36,13 +42,20 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/
 [<img align="left" alt="Vue" width="36px" 
 src="https://vuejs.org/images/logo.svg" />][Vue]
 
+[<img align="left" alt="SQL" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 
-[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
-[<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
+[<img align="left" alt="MySQL" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
 
-[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-[<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
+[<img align="left" alt="Git" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+
+[<img align="left" alt="GitHub" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+
+[<img align="left" alt="Terminal" width="36px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 [<img align="left" alt="Java" width="36px" 
 src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />][Java]
@@ -53,9 +66,11 @@ src="https://res.infoq.com/news/2021/12/spring-boot-2-6/en/headerimage/generated
 [<img align="Bootstrap" alt="Bootstrap" width="36px" 
 src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" />][Bootstrap]
 
-
 [<img align="GraphQL" alt="GraphQL" width="36px" 
 src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" />][GraphQL]
+
+[<img align="PostgreSQL" alt="PostgreSQL" width="36px" 
+src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />][PostgreSQL]
 
 
 <br />
@@ -117,6 +132,8 @@ src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" />]
 [Spring]: https://spring.io/
 [Bootstrap]: https://getbootstrap.com/
 [GraphQL]: https://graphql.org/
+[PostgreSQL]: https://www.postgresql.org/
+
 
 
 
