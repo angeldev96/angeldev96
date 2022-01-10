@@ -50,8 +50,12 @@ src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />][Java]
 [<img align="left" alt="Spring" width="76px" 
 src="https://res.infoq.com/news/2021/12/spring-boot-2-6/en/headerimage/generatedHeaderImage-1639689510090.jpg" />][Spring]
 
-[<img align="Bootstrap" alt="Vue" width="36px" 
+[<img align="Bootstrap" alt="Bootstrap" width="36px" 
 src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" />][Bootstrap]
+
+
+[<img align="GraphQL" alt="GraphQL" width="36px" 
+src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" />][GraphQL]
 
 
 <br />
@@ -112,6 +116,7 @@ src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png
 [Java]: https://www.java.com/
 [Spring]: https://spring.io/
 [Bootstrap]: https://getbootstrap.com/
+[GraphQL]: https://graphql.org/
 
 
 
