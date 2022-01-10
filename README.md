@@ -72,6 +72,9 @@ src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.cdedad214a.svg" />]
 [<img align="PostgreSQL" alt="PostgreSQL" width="36px" 
 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />][PostgreSQL]
 
+[<img align="Dgraph" alt="Dgraph" width="36px" 
+src="https://dgraph.io/wp-content/uploads/2021/06/dgraph-logo.png" />][Dgraph]
+
 
 <br />
 <br />
@@ -133,6 +136,8 @@ src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_lo
 [Bootstrap]: https://getbootstrap.com/
 [GraphQL]: https://graphql.org/
 [PostgreSQL]: https://www.postgresql.org/
+[Dgraph]: https://dgraph.io/
+
 
 
 
