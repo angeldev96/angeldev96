@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="Go" width="66px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" />][Go]
 
-[<img align="left" alt="Vue" width="36px" 
+[<img align="left" alt="Vue" width="70px" 
 src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" />][Vue]
 
 [<img align="left" alt="SQL" width="36px" 
