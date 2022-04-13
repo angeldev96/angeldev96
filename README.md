@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" />][Go]
 
 [<img align="left" alt="Vue" width="36px" 
-src="https://vuejs.org/images/logo.svg" />][Vue]
+src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" />][Vue]
 
 [<img align="left" alt="SQL" width="36px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
