@@ -104,7 +104,6 @@ src="https://dgraph.io/wp-content/uploads/2021/06/dgraph-logo.png" />][Dgraph]
 
 ### Connect with me:
 
-[<img align="left" alt="angeldev996.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="angeldev996 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -113,7 +112,6 @@ src="https://dgraph.io/wp-content/uploads/2021/06/dgraph-logo.png" />][Dgraph]
 <br/>
 
 
-[website]: https://angeldev996.me
 [twitter]: https://twitter.com/_Angel996
 [instagram]: https://www.instagram.com/angel.va96/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/angel-ariel-valladares-422490159/
