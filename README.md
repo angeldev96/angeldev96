@@ -1,7 +1,7 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
 ## Systems Engineering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - I have worked with Java/Spring/MySQL/PostgreSQL/Bootstrap 
-- I'm currently learning Backend Development in Go and Frontend Development in Vue.js
+- I'm currently learning Frontend Development in ReactJS, NextJS and the MERN Stack.
 
 
 ### <img src="https://c.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="40"> A little more about me...  
@@ -36,11 +36,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="JavaScript" width="36px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 
-[<img align="left" alt="Go" width="66px" 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" />][Go]
 
-[<img align="left" alt="Vue" width="70px" 
-src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" />][Vue]
+
+
 
 [<img align="left" alt="SQL" width="36px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
@@ -72,8 +70,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][G
 [<img align="PostgreSQL" alt="PostgreSQL" width="56px" 
 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />][PostgreSQL]
 
-[<img align="Dgraph" alt="Dgraph" width="86px" 
-src="https://dgraph.io/wp-content/uploads/2021/06/dgraph-logo.png" />][Dgraph]
+
 
 
 <br />
@@ -122,19 +119,16 @@ src="https://dgraph.io/wp-content/uploads/2021/06/dgraph-logo.png" />][Dgraph]
 [HTML5]: https://developer.mozilla.org/es/docs/Glossary/HTML5
 [CSS3]: https://developer.mozilla.org/es/docs/Web/CSS
 [JavaScript]: https://www.javascript.com/
-[Go]: https://go.dev/
 [SQL]: https://www.w3schools.com/sql/
 [MySQL]: https://www.mysql.com/
 [Git]: https://git-scm.com/
 [GitHub]: https://github.com/
 [Terminal]: https://www.gnu.org/software/bash/
-[Vue]: https://vuejs.org/
 [Java]: https://www.java.com/
 [Spring]: https://spring.io/
 [Bootstrap]: https://getbootstrap.com/
 [GraphQL]: https://graphql.org/
 [PostgreSQL]: https://www.postgresql.org/
-[Dgraph]: https://dgraph.io/
 
 
 
