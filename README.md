@@ -78,7 +78,7 @@ src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_lo
 <br />
 
 ### My Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldev996)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldev96)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
