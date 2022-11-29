@@ -25,6 +25,8 @@ func main() {
 
 ### Languages and Tools:
 
+
+
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 [<img align="left" alt="HTML5" width="36px" 
@@ -35,9 +37,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [<img align="left" alt="JavaScript" width="36px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-
-
-
 
 
 [<img align="left" alt="SQL" width="36px" 
@@ -70,7 +69,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][G
 [<img align="PostgreSQL" alt="PostgreSQL" width="56px" 
 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />][PostgreSQL]
 
+[<img align=".NET" alt=".NET" width="56px" 
+src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fmicrosoft-dot-net-icon%2F&psig=AOvVaw2tlNExVAmFYXVVBSgm7QB8&ust=1669804184256000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi2kL6X0_sCFQAAAAAdAAAAABAD"
+ />][.NET]
 
+
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fmicrosoft-dot-net-icon%2F&psig=AOvVaw2tlNExVAmFYXVVBSgm7QB8&ust=1669804184256000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi2kL6X0_sCFQAAAAAdAAAAABAD
 
 
 <br />
@@ -129,6 +134,7 @@ src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_lo
 [Bootstrap]: https://getbootstrap.com/
 [GraphQL]: https://graphql.org/
 [PostgreSQL]: https://www.postgresql.org/
+[.NET]: https://dotnet.microsoft.com/en-us//
 
 
 
