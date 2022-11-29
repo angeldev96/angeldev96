@@ -72,11 +72,6 @@ src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_lo
 [<img align=".NET" alt=".NET" width="56px" 
 src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-dot-net-icon.png" />][.NET]
 
-
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fmicrosoft-dot-net-icon%2F&psig=AOvVaw2tlNExVAmFYXVVBSgm7QB8&ust=1669804184256000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi2kL6X0_sCFQAAAAAdAAAAABAD
-
-
 <br />
 <br />
 <br />
