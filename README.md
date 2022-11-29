@@ -1,7 +1,7 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
 ## Systems Engineering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - I have worked with Java/Spring/MySQL/PostgreSQL/Bootstrap 
-- I'm currently learning Frontend Development in ReactJS, NextJS and the MERN Stack.
+- I'm currently learning Fullstack Development in .NET TEchnologies, MS SQL Server and JS.
 
 
 ### <img src="https://c.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="40"> A little more about me...  
@@ -109,7 +109,7 @@ src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_lo
 <br/>
 
 
-[twitter]: https://twitter.com/_Angel996
+[twitter]: https://twitter.com/angeldev96
 [instagram]: https://www.instagram.com/angel.va96/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/angel-ariel-valladares-422490159/
 [telegram]: https://t.me/AngelDev996
