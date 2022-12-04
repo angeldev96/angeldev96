@@ -1,8 +1,19 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
 ## Estudiante de Ingeniería en Sistemas en <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+#### Bienvenido a mi Github, puedes encontrar el código fuente de mis proyectos, en su mayoría proyectos de .NET ya que es la plataforma que más me gusta y en la que planeo desarrollar mi experiencia laboral.
+#### Como mencione anteriormente, la mayoría de proyectos están centrados en la plataforma de .NET, por ende los proyectos de mayor complejidad y calidad son estos mismos, he grabado videos explicando las tecnologías usadas en cada proyecto, objetivo y la lógica del de estos para que personas externas tengan un mayor entendimiento de estos, te invito a contactarme si tienes dudas o sugerencias sobre mis proyectos y su respectivo código.
+Me puedes contactar mediante mis correos: 
+angelvalladares@unah.hn
+arivalladares2.0@gmail.com
+Mi C.V: https://drive.google.com/file/d/1gDiuKilR6TXxvPj_0iDQ_ytCJBcpv5sH/view?usp=sharing
+
+### Te dejé también te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
+
+
+<br />
 - He trabajado con Tecnologias como Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
 - Actualmente estoy aprendiendo Desarrollo Fullstack en TECNOLOGÍAS .NET, MS SQL Server y JS.
-- En este Github, puedes encontrar el código fuente de mis proyectos, en su mayoría proyectos de .NET ya que es la plataforma que más me gusta y en la que planeo desarrollar mi experiencia laboral. 
+
 
 
 ### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="60"> A little more about me...  
