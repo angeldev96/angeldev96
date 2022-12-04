@@ -60,16 +60,16 @@ src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />][Java]
 [<img align="left" alt="Spring" width="76px" 
 src="https://res.infoq.com/news/2021/12/spring-boot-2-6/en/headerimage/generatedHeaderImage-1639689510090.jpg" />][Spring]
 
-[<img align="Bootstrap" alt="Bootstrap" width="36px" 
+[<img align="left" alt="Bootstrap" width="36px" 
 src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" />][Bootstrap]
 
-[<img align="GraphQL" alt="GraphQL" width="46px" 
+[<img align="left" alt="GraphQL" width="46px" 
 src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][GraphQL]
 
-[<img align="PostgreSQL" alt="PostgreSQL" width="56px" 
+[<img align="left" alt="PostgreSQL" width="56px" 
 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />][PostgreSQL]
 
-[<img align=".NET" alt=".NET" width="56px" 
+[<img align=".left" alt=".NET" width="56px" 
 src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-dot-net-icon.png" />][.NET]
 
 <br />
