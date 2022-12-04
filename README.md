@@ -2,6 +2,7 @@
 ## Estudiante de Ingeniería en Sistemas en <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - He trabajado con Tecnologias como Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
 - Actualmente estoy aprendiendo Desarrollo Fullstack en TECNOLOGÍAS .NET, MS SQL Server y JS.
+- En este Github, puedes encontrar el código fuente de mis proyectos, en su mayoría proyectos de .NET ya que es la plataforma que más me gusta y en la que planeo desarrollar mi experiencia laboral. 
 
 
 ### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="60"> A little more about me...  
@@ -133,7 +134,7 @@ src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-medi
 ### Hobbies e Intereses:
 
 
-- Me gusta correr por las mañanas, pasar tiempo con mi familia y amigistades, ver series y películas.
+- Me gusta correr por las mañanas, pasar tiempo con mi familia y amistades, ver series y películas.
 - Mi saga favorita de libros y películas es Harry Potter. <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
 
 <br/>
