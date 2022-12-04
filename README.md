@@ -1,7 +1,7 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
-## Systems Engineering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-- I have worked with Java/Spring/MySQL/PostgreSQL/Bootstrap 
-- I'm currently learning Fullstack Development in .NET TEchnologies, MS SQL Server and JS.
+## Estudiante de Ingeniería en Sistemas en <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- He trabajado con Tecnologias como Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
+- Actualmente estoy aprendiendo Desarrollo Fullstack en TECNOLOGÍAS .NET, MS SQL Server y JS.
 
 
 ### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="60"> A little more about me...  
@@ -68,7 +68,7 @@ namespace Introduccion
 
 ```
 
-### Languages and Tools:
+### Lenguajes y Tecnologías:
 
 
 
@@ -130,20 +130,19 @@ src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-medi
 <br />
 <br />
 
-### Hobbies & Interests:
+### Hobbies e Intereses:
 
 
-- I like to run in the mornings, spend time with my family and friends and watch series and movies.
-- My favorite book and movie saga is Harry Potter <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
+- Me gusta correr por las mañanas, pasar tiempo con mi familia y amigistades, ver series y películas.
+- Mi saga favorita de libros y películas es Harry Potter. <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
 
 <br/>
 
-- I'm a music lover, my music tastes are Soft/Hard/Indie Rock, the bands that I listen the most are The Strokes, Tame Impala, Cage the Elephant and Arctic Monkeys.
+- Soy amante de la música, mis gustos musicales son Soft/Hard/Indie Rock, las bandas que más escucho son The Strokes, Tame Impala, Cage the Elephant y Arctic Monkeys.
 
 
 
-
-### Connect with me:
+### Contactame:
 
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
