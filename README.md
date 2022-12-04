@@ -6,20 +6,64 @@
 
 ### <img src="https://c.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="40"> A little more about me...  
 
-```go                     
-package main
+```c#                     
+using System;
+using System.Collections.Generic;
 
-import "fmt"
+namespace Introduccion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Crea una nueva instancia de la clase Persona
+            Persona persona = new Persona();
 
-func main() {
-	fullName := "Angel Valladares"
-	skills := [10]string{"vscode", "golang", "vue"}
-	fmt.Printf("Hello! my name is %s", fullName)
-	fmt.Println("My Skills are: ")
-	for i := 0; i < len(skills); i++ {
-		fmt.Println(skills[i])
-	}
+            // Establece la información de la persona
+            persona.Nombre = "Juan";
+            persona.Edad = 30;
+            persona.Altura = 1.75;
+            persona.Peso = 75;
+            persona.Genero = Genero.Masculino;
+
+            // Establece las habilidades de la persona
+            persona.Habilidades = new List<string> { "Programación", "Diseño gráfico", "Fotografía" };
+
+            // Establece los hobbies de la persona
+            persona.Hobbies = new List<string> { "Leer", "Escuchar música", "Ver películas" };
+
+            // Obtiene la información de la persona y la imprime en la consola
+            Console.WriteLine("Hola, mi nombre es " + persona.Nombre);
+            Console.WriteLine("Tengo " + persona.Edad + " años");
+            Console.WriteLine("Mido " + persona.Altura + " metros");
+            Console.WriteLine("Peso " + persona.Peso + " kilogramos");
+            Console.WriteLine("Soy del género " + persona.Genero);
+            Console.WriteLine("Mis habilidades son: " + string.Join(", ", persona.Habilidades));
+            Console.WriteLine("Mis hobbies son: " + string.Join(", ", persona.Hobbies));
+        }
+    }
+
+    // Define la clase Persona
+    public class Persona
+    {
+        // Propiedades que almacenan la información de la persona
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+        public double Altura { get; set; }
+        public double Peso { get; set; }
+        public Genero Genero { get; set; }
+        public List<string> Habilidades { get; set; }
+        public List<string> Hobbies { get; set; }
+    }
+
+    // Define la enumeración Genero
+    public enum Genero
+    {
+        Masculino,
+        Femenino
+    }
 }
+
 
 ```
 
