@@ -102,7 +102,7 @@ src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-medi
 
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="angeldev996 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="angeldev996 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
 <br/>
@@ -111,7 +111,7 @@ src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-medi
 [twitter]: https://twitter.com/angeldev96
 [instagram]: https://www.instagram.com/angel.va96/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/angel-ariel-valladares-422490159/
-[telegram]: https://t.me/AngelDev996
+[discord]: https://discord.com/users/622490569704472598
 
 
 [vscode]: https://code.visualstudio.com/
