@@ -4,7 +4,7 @@
 - I'm currently learning Fullstack Development in .NET TEchnologies, MS SQL Server and JS.
 
 
-### <img src="https://c.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="40"> A little more about me...  
+### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="40"> A little more about me...  
 
 ```c#                     
 using System;
@@ -20,14 +20,14 @@ namespace Introduccion
             Persona persona = new Persona();
 
             // Establece la información de la persona
-            persona.Nombre = "Juan";
-            persona.Edad = 30;
-            persona.Altura = 1.75;
+            persona.Nombre = "Angel Valladares";
+            persona.Edad = 26;
+            persona.Altura = 1.80;
             persona.Peso = 75;
             persona.Genero = Genero.Masculino;
 
             // Establece las habilidades de la persona
-            persona.Habilidades = new List<string> { "Programación", "Diseño gráfico", "Fotografía" };
+            persona.Habilidades = new List<string> { "Programación", "Front-End", "Back-End" };
 
             // Establece los hobbies de la persona
             persona.Hobbies = new List<string> { "Leer", "Escuchar música", "Ver películas" };
@@ -63,6 +63,7 @@ namespace Introduccion
         Femenino
     }
 }
+
 
 
 ```
