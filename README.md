@@ -4,7 +4,7 @@
 - I'm currently learning Fullstack Development in .NET TEchnologies, MS SQL Server and JS.
 
 
-### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="40"> A little more about me...  
+### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="60"> A little more about me...  
 
 ```c#                     
 using System;
