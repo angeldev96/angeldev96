@@ -10,9 +10,9 @@
 ### Te dejé también te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
 
 
-<br />
-- He trabajado con Tecnologías como Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
-- Actualmente estoy aprendiendo Desarrollo Fullstack en TECNOLOGÍAS .NET, MS SQL Server y JS.
+
+#### He trabajado con Tecnologías como Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
+#### Actualmente estoy aprendiendo Desarrollo Fullstack en TECNOLOGÍAS .NET, MS SQL Server y JS.
 
 
 
