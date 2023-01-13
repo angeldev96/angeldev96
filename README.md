@@ -12,7 +12,7 @@
 
 
 #### He trabajado con Tecnologías como Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
-#### Actualmente estoy aprendiendo Desarrollo Fullstack en TECNOLOGÍAS .NET, MS SQL Server y JS.
+#### Actualmente estoy aprendiendo Desarrollo Fullstack en tecnologías .NET, MS SQL Server y JS.
 
 
 
