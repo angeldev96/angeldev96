@@ -133,10 +133,6 @@ src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-medi
 <br />
 <br />
 
-### My Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldev96)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <br />
 <br />
