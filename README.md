@@ -1,7 +1,12 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
 ## Estudiante de Ingeniería en Sistemas en <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-### Bienvenido a mi Github, puedes encontrar el código fuente de mis proyectos, en su mayoría proyectos de .NET ya que es la plataforma que más me gusta y en la que planeo desarrollar mi experiencia laboral.
-### Como mencione anteriormente, la mayoría de proyectos están centrados en la plataforma de .NET, por ende los proyectos de mayor complejidad y calidad son estos mismos, he grabado videos explicando las tecnologías usadas en cada proyecto, objetivo y lógica para que personas externas tengan un mayor entendimiento de cada uno de los proyectos, te invito a contactarme si tienes dudas o sugerencias.
+### Bienvenido a mi Github, puedes encontrar el código fuente de mis proyectos, en su mayoría proyectos de .NET ya que es la plataforma que más me gusta y en la que plan¡Hola y bienvenido a mi perfil de Github! Aquí podrás encontrar el código fuente de mis proyectos, en los que he trabajado con diferentes tecnologías para desarrollar aplicaciones web de alta calidad y soluciones empresariales.
+
+### He trabajado principalmente en proyectos basados en la plataforma .NET, pero también tengo experiencia en el desarrollo de aplicaciones web modernas utilizando React y Next.js en el frontend. Mis proyectos de mayor complejidad y calidad se encuentran aquí, y he grabado videos explicando las tecnologías utilizadas en cada uno, así como los objetivos y la lógica detrás de ellos.
+
+### En mis proyectos de frontend, me enfoco en tecnologías como React y Next.js para crear interfaces de usuario modernas y dinámicas. Además, también tengo experiencia en HTML, CSS y JavaScript, lo que me permite trabajar en proyectos de frontend desde cero, o colaborar en proyectos ya existentes.
+
+### Si estás interesado en conocer más acerca de mi trabajo, o si tienes alguna pregunta o sugerencia, no dudes en contactarme. Siempre estoy abierto a nuevas oportunidades de colaboración y estoy comprometido con la mejora constante. ¡Gracias por visitar mi perfil!
 ### Me puedes contactar mediante mis correos: 
 - angelvalladares@unah.hn
 - arivalladares2.0@gmail.com
