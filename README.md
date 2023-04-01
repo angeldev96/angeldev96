@@ -16,8 +16,8 @@
 
 
 
-#### He trabajado con Tecnologías como React, NextJS, Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
-#### Actualmente estoy aprendiendo Desarrollo Fullstack en tecnologías .NET, MS SQL Server y JS.
+### He trabajado con Tecnologías como React, NextJS, Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
+### Actualmente estoy aprendiendo Desarrollo Fullstack en tecnologías .NET, MS SQL Server y JS.
 
 
 
