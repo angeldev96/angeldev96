@@ -1,6 +1,6 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
 ## Estudiante de Ingeniería en Sistemas en <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-## Bienvenido a mi Github, puedes encontrar el código fuente de mis proyectos, en su mayoría proyectos de .NET ya que es la plataforma que más me gusta y en la que plan¡Hola y bienvenido a mi perfil de Github! Aquí podrás encontrar el código fuente de mis proyectos, en los que he trabajado con diferentes tecnologías para desarrollar aplicaciones web de alta calidad y soluciones empresariales.
+### Bienvenido a mi Github, puedes encontrar el código fuente de mis proyectos, en su mayoría proyectos de .NET ya que es la plataforma que más me gusta y en la que plan¡Hola y bienvenido a mi perfil de Github! Aquí podrás encontrar el código fuente de mis proyectos, en los que he trabajado con diferentes tecnologías para desarrollar aplicaciones web de alta calidad y soluciones empresariales.
 
 ### He trabajado principalmente en proyectos basados en la plataforma .NET, pero también tengo experiencia en el desarrollo de aplicaciones web modernas utilizando React y Next.js en el frontend. Mis proyectos de mayor complejidad y calidad se encuentran aquí, y he grabado videos explicando las tecnologías utilizadas en cada uno, así como los objetivos y la lógica detrás de ellos.
 
