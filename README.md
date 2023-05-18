@@ -12,9 +12,7 @@
 - arivalladares2.0@gmail.com
 - Mi C.V: https://drive.google.com/file/d/1gDiuKilR6TXxvPj_0iDQ_ytCJBcpv5sH/view?usp=sharing
 
-### Te dejé también te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
-
-
+### Te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
 
 #### He trabajado con Tecnologías como React, NextJS, Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
 #### Actualmente estoy aprendiendo y trabajando en Desarrollo Fullstack con tecnologías .NET, MS SQL Server, HTML/CSS y JS.
