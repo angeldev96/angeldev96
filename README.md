@@ -165,7 +165,7 @@ src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet
 
 [twitter]: https://twitter.com/angeldev96
 [instagram]: https://www.instagram.com/angel.va96/?hl=es-la
-[linkedin]: https://www.linkedin.com/in/angel-ariel-valladares-422490159/
+[linkedin]: https://www.linkedin.com/in/angel-valladares-422490159/
 [discord]: https://discord.com/users/622490569704472598
 
 
