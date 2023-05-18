@@ -130,7 +130,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />][G
 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />][PostgreSQL]
 
 [<img align=".left" alt=".NET" width="56px" 
-src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-dot-net-icon.png" />][.NET]
+src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png?raw=true" />][.NET]
 
 <br />
 <br />
