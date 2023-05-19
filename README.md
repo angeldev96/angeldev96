@@ -104,6 +104,13 @@ namespace Introduccion
 
 - Soy amante de la música, mis gustos musicales son Soft/Hard/Indie Rock, las bandas que más escucho son The Strokes, Tame Impala, Cage the Elephant y Arctic Monkeys.
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=angeldev96&theme=omni&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=angeldev96&theme=omni&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldev96&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=angeldev96&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 
 ### Contactame:
