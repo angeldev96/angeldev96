@@ -12,6 +12,11 @@
 - arivalladares2.0@gmail.com
 - Mi C.V: https://drive.google.com/file/d/1gDiuKilR6TXxvPj_0iDQ_ytCJBcpv5sH/view?usp=sharing
 
+#### Mis otras redes:
+[<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="angeldev996 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 ### Te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
 
 #### He trabajado con Tecnologías como React, NextJS, Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
@@ -111,6 +116,7 @@ namespace Introduccion
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=angeldev96&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 ### Contactame:
