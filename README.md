@@ -92,9 +92,6 @@ namespace Introduccion
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-<br />
-<br />
 <br />
 
 ### Hobbies e Intereses:
@@ -123,24 +120,6 @@ namespace Introduccion
 [instagram]: https://www.instagram.com/angel.va96/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/angel-valladares-422490159/
 [discord]: https://discord.com/users/622490569704472598
-
-
-[vscode]: https://code.visualstudio.com/
-[HTML5]: https://developer.mozilla.org/es/docs/Glossary/HTML5
-[CSS3]: https://developer.mozilla.org/es/docs/Web/CSS
-[JavaScript]: https://www.javascript.com/
-[SQL]: https://www.w3schools.com/sql/
-[MySQL]: https://www.mysql.com/
-[Git]: https://git-scm.com/
-[GitHub]: https://github.com/
-[Terminal]: https://www.gnu.org/software/bash/
-[Java]: https://www.java.com/
-[Spring]: https://spring.io/
-[Bootstrap]: https://getbootstrap.com/
-[GraphQL]: https://graphql.org/
-[PostgreSQL]: https://www.postgresql.org/
-[.NET]: https://dotnet.microsoft.com/en-us//
-
 
 
 
