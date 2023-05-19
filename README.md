@@ -16,6 +16,8 @@
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="angeldev996 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+<br/>
+
 
 ### Te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
 
