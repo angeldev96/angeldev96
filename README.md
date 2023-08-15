@@ -20,6 +20,7 @@
 
 
 ### Te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
+#### Edit (agosto 2023): Actualmente me encuentro trabajando como Jr Dev.
 
 #### He trabajado con Tecnologías como React, NextJS, Java, Spring, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, HTML5, Oracle, SQL Server, JavaScript. 
 #### Actualmente estoy aprendiendo y trabajando en Desarrollo Fullstack con tecnologías .NET, MS SQL Server, HTML/CSS y JS.
