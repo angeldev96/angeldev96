@@ -27,7 +27,7 @@
 
 
 
-### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="60"> A little more about me...  
+### <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="60"> A little more about me...  
 
 ```go
 package main
