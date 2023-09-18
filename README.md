@@ -29,64 +29,54 @@
 
 ### <img src="https://github.com/angeldev96/Portfolio-dotnet/blob/master/Portfolio-dotnet/wwwroot/images/dotnet-imagen-2.png" width="60"> A little more about me...  
 
-```c#                     
-using System;
-using System.Collections.Generic;
+```go
+package main
 
-namespace Introduccion
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // Crea una nueva instancia de la clase Persona
-            Persona persona = new Persona();
+import (
+	"fmt"
+)
 
-            // Establece la información de la persona
-            persona.Nombre = "Angel Valladares";
-            persona.Edad = 26;
-            persona.Altura = 1.80;
-            persona.Peso = 75;
-            persona.Genero = Genero.Masculino;
+func main() {
+	persona := Persona{
+		Nombre:     "Angel Valladares",
+		Edad:       26,
+		Altura:     1.80,
+		Peso:       75,
+		Genero:     Masculino,
+		Habilidades: []string{"Programación", "Front-End", "Back-End"},
+		Hobbies:    []string{"Leer", "Escuchar música", "Ver películas"},
+	}
 
-            // Establece las habilidades de la persona
-            persona.Habilidades = new List<string> { "Programación", "Front-End", "Back-End" };
-
-            // Establece los hobbies de la persona
-            persona.Hobbies = new List<string> { "Leer", "Escuchar música", "Ver películas" };
-
-            // Obtiene la información de la persona y la imprime en la consola
-            Console.WriteLine("Hola, mi nombre es " + persona.Nombre);
-            Console.WriteLine("Tengo " + persona.Edad + " años");
-            Console.WriteLine("Mido " + persona.Altura + " metros");
-            Console.WriteLine("Peso " + persona.Peso + " kilogramos");
-            Console.WriteLine("Soy del género " + persona.Genero);
-            Console.WriteLine("Mis habilidades son: " + string.Join(", ", persona.Habilidades));
-            Console.WriteLine("Mis hobbies son: " + string.Join(", ", persona.Hobbies));
-        }
-    }
-
-    // Define la clase Persona
-    public class Persona
-    {
-        // Propiedades que almacenan la información de la persona
-        public string Nombre { get; set; }
-        public int Edad { get; set; }
-        public double Altura { get; set; }
-        public double Peso { get; set; }
-        public Genero Genero { get; set; }
-        public List<string> Habilidades { get; set; }
-        public List<string> Hobbies { get; set; }
-    }
-
-    // Define la enumeración Genero
-    public enum Genero
-    {
-        Masculino,
-        Femenino
-    }
+	fmt.Println("Hola, mi nombre es", persona.Nombre)
+	fmt.Println("Tengo", persona.Edad, "años")
+	fmt.Println("Mido", persona.Altura, "metros")
+	fmt.Println("Peso", persona.Peso, "kilogramos")
+	fmt.Println("Soy del género", persona.Genero)
+	fmt.Println("Mis habilidades son:", join(", ", persona.Habilidades...))
+	fmt.Println("Mis hobbies son:", join(", ", persona.Hobbies...))
 }
 
+type Persona struct {
+	Nombre     string
+	Edad       int
+	Altura     float64
+	Peso       float64
+	Genero     Genero
+	Habilidades []string
+	Hobbies    []string
+}
+
+type Genero string
+
+const (
+	Masculino Genero = "Masculino"
+	Femenino  Genero = "Femenino"
+)
+
+func join(sep string, values ...string) string {
+	return fmt.Sprint(values[0], sep, values[1:])
+}
+                    
 
 
 ```
