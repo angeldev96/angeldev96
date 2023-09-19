@@ -8,7 +8,7 @@
 ### Me puedes contactar mediante mis correos: 
 - angelvalladares@unah.hn
 - arivalladares2.0@gmail.com
-- Mi C.V: https://drive.google.com/file/d/1gDiuKilR6TXxvPj_0iDQ_ytCJBcpv5sH/view?usp=sharing](https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing
+- Mi C.V: https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing
 
 #### Mis otras redes:
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
