@@ -32,45 +32,46 @@ import (
 )
 
 func main() {
-	persona := Persona{
-		Nombre:     "Angel Valladares",
-		Edad:       26,
-		Altura:     1.80,
-		Peso:       75,
-		Genero:     Masculino,
-		Habilidades: []string{"Programación", "Front-End", "Back-End"},
-		Hobbies:    []string{"Leer", "Escuchar música", "Ver películas"},
+	person := Person{
+		Name:       "Angel Valladares",
+		Age:        26,
+		Height:     1.80,
+		Weight:     75,
+		Gender:     Male,
+		Skills:     []string{"Programming", "Front-End", "Back-End"},
+		Hobbies:    []string{"Reading", "Listening to music", "Watching movies"},
 	}
 
-	fmt.Println("Hola, mi nombre es", persona.Nombre)
-	fmt.Println("Tengo", persona.Edad, "años")
-	fmt.Println("Mido", persona.Altura, "metros")
-	fmt.Println("Peso", persona.Peso, "kilogramos")
-	fmt.Println("Soy del género", persona.Genero)
-	fmt.Println("Mis habilidades son:", join(", ", persona.Habilidades...))
-	fmt.Println("Mis hobbies son:", join(", ", persona.Hobbies...))
+	fmt.Println("Hello, my name is", person.Name)
+	fmt.Println("I am", person.Age, "years old")
+	fmt.Println("I am", person.Height, "meters tall")
+	fmt.Println("I weigh", person.Weight, "kilograms")
+	fmt.Println("I am of the gender", person.Gender)
+	fmt.Println("My skills include:", join(", ", person.Skills...))
+	fmt.Println("My hobbies are:", join(", ", person.Hobbies...))
 }
 
-type Persona struct {
-	Nombre     string
-	Edad       int
-	Altura     float64
-	Peso       float64
-	Genero     Genero
-	Habilidades []string
+type Person struct {
+	Name       string
+	Age        int
+	Height     float64
+	Weight     float64
+	Gender     Gender
+	Skills     []string
 	Hobbies    []string
 }
 
-type Genero string
+type Gender string
 
 const (
-	Masculino Genero = "Masculino"
-	Femenino  Genero = "Femenino"
+	Male   Gender = "Male"
+	Female Gender = "Female"
 )
 
 func join(sep string, values ...string) string {
 	return fmt.Sprint(values[0], sep, values[1:])
 }
+
                     
 
 
@@ -94,19 +95,10 @@ func join(sep string, values ...string) string {
 
 <br/>
 
-- Soy amante de la música, mis gustos musicales son Soft/Hard/Indie Rock, las bandas que más escucho son The Strokes, Tame Impala, Cage the Elephant y Arctic Monkeys.
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=angeldev96&theme=omni&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=angeldev96&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldev96&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=angeldev96&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+- I am a music lover, and my musical tastes lean towards Soft/Hard/Indie Rock. Some of the bands I listen to the most are The Strokes, Tame Impala, Cage the Elephant, and Arctic Monkeys.
 
 
-
-### Contactame:
+### Contact Me:
 
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
