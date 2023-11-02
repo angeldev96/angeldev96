@@ -63,10 +63,7 @@ type Person struct {
 
 type Gender string
 
-const (
-	Male   Gender = "Male"
-	Female Gender = "Female"
-)
+
 
 func join(sep string, values ...string) string {
 	return fmt.Sprint(values[0], sep, values[1:])
