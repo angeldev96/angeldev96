@@ -1,29 +1,26 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
-## Estudiante de Ingeniería en Sistemas en <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-#### Bienvenido a mi Github, puedes encontrar el código fuente de mis proyectos, en los que he trabajado con diferentes tecnologías para desarrollar aplicaciones web.
+## Computer Engineering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+#### Welcome to my Github, where you can find the source code for my projects. I've worked with various technologies to develop web applications.
 
+#### If you're interested in learning more about my work or have any questions or suggestions, please feel free to contact me. I'm always open to new collaboration opportunities and committed to continuous improvement. Thank you for visiting my profile!
 
-
-#### Si estás interesado en conocer más acerca de mi trabajo, o si tienes alguna pregunta o sugerencia, no dudes en contactarme. Siempre estoy abierto a nuevas oportunidades de colaboración y estoy comprometido con la mejora constante. ¡Gracias por visitar mi perfil!
-### Me puedes contactar mediante mis correos: 
+### You can reach me via my email addresses:
 - angelvalladares@unah.hn
 - arivalladares2.0@gmail.com
-- Mi C.V: https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing
+- My Resume: https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing
 
-#### Mis otras redes:
+#### My other social media profiles:
 [<img align="left" alt="angeldev996 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="angeldev996 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="angeldev996 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br/>
 
 
-### Te dejo mi hoja de vida o Curriculum Vitae en caso de que seas un empleador y quieras trabajar conmigo, ¡Saludos!.
-#### (Edit 2023): Actualmente ya me encuentro ejerciendo como Jr. Web Dev. 👨‍💻
+### I'm sharing my resume or Curriculum Vitae in case you're an employer and interested in working with me. Greetings!
+#### (Updated 2023): I am currently working as a Jr. Web Dev. 👨‍💻
 
-#### He trabajado con Tecnologías como React, Vue, Go, MySQL, PostgreSQL, Bootstrap, Tailwinds CSS, Oracle, SQL Server, JavaScript. 
-#### Actualmente estoy aprendiendo y trabajando en Desarrollo Fullstack con tecnologías .NET, MS SQL Server, HTML/CSS y JS.
-
-
+#### I have experience working with technologies such as React, Vue, Go, MySQL, PostgreSQL, Bootstrap, Tailwind CSS, Oracle, SQL Server, and JavaScript.
+#### Currently, I am learning and working on Fullstack Development with technologies including .NET, MS SQL Server, HTML/CSS, and JS.
 
 ### <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="60"> A little more about me...  
 
@@ -90,11 +87,10 @@ func join(sep string, values ...string) string {
 
 <br />
 
-### Hobbies e Intereses:
+### Hobbies and Interests:
 
-
-- Me gusta correr por las mañanas, pasar tiempo con mi familia y amistades, ver series y películas.
-- Mi saga favorita de libros y películas es Harry Potter. <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
+- I enjoy running in the mornings, spending time with my family and friends, and watching TV series and movies.
+- My favorite book and movie series is Harry Potter. <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="70">
 
 <br/>
 
