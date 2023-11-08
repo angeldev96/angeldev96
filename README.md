@@ -1,6 +1,6 @@
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
 ## Systems Engineering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-#### Welcome to my Github, where you can find the source code for my projects. I've worked with various technologies to develop web applications.
+#### Welcome to my GitHub, where you can find the source code for my projects. I've worked with various technologies to develop web applications.
 
 #### If you're interested in learning more about my work or have any questions or suggestions, please feel free to contact me. I'm always open to new collaboration opportunities and committed to continuous improvement. Thank you for visiting my profile!
 
