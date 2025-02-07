@@ -17,7 +17,8 @@
 
 
 ### I'm sharing my resume or Curriculum Vitae in case you're an employer and interested in working with me. Greetings!
-#### (Updated 2024): I am currently working as a Jr. Web Dev. 👨‍💻
+#### ((Updated 2025): I am currently working as a Web Dev. 👨‍💻
+#### 🚀 Always open to exciting opportunities! If you have an interesting offer, feel free to reach out. Let's connect! 💼✨
 
 #### I have experience working with technologies such as React, Vue, Go, MySQL, PostgreSQL, Bootstrap, Tailwind CSS, Oracle, SQL Server, and JavaScript.
 #### Currently, I am learning and working on Fullstack Development with technologies including .NET, MS SQL Server, HTML/CSS, and JS.
