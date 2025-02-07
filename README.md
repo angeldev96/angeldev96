@@ -24,53 +24,37 @@
 
 ### <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="60"> A little more about me...  
 
-```go
-package main
+```javascript
+class Person {
+  constructor(name, age, height, weight, gender, skills, hobbies) {
+    this.name = name;
+    this.age = age;
+    this.height = height;
+    this.weight = weight;
+    this.gender = gender;
+    this.skills = skills;
+    this.hobbies = hobbies;
+  }
 
-import (
-	"fmt"
-)
-
-func main() {
-	person := Person{
-		Name:       "Angel Valladares",
-		Age:        26,
-		Height:     1.80,
-		Weight:     75,
-		Gender:     Male,
-		Skills:     []string{"Programming", "Front-End", "Back-End"},
-		Hobbies:    []string{"Reading", "Listening to music", "Watching movies"},
-	}
-
-	fmt.Println("Hello, my name is", person.Name)
-	fmt.Println("I am", person.Age, "years old")
-	fmt.Println("I am", person.Height, "meters tall")
-	fmt.Println("I weigh", person.Weight, "kilograms")
-	fmt.Println("I am of the gender", person.Gender)
-	fmt.Println("My skills include:", join(", ", person.Skills...))
-	fmt.Println("My hobbies are:", join(", ", person.Hobbies...))
+  introduce() {
+    return `👋 Hey there! I'm ${this.name}, a ${this.age}-year-old ${this.gender}.\n` +
+           `📏 Height: ${this.height}m | ⚖️ Weight: ${this.weight}kg\n` +
+           `💡 Skills: ${this.skills.join(" | ")}\n` +
+           `🎭 Hobbies: ${this.hobbies.join(" | ")}`;
+  }
 }
 
-type Person struct {
-	Name       string
-	Age        int
-	Height     float64
-	Weight     float64
-	Gender     Gender
-	Skills     []string
-	Hobbies    []string
-}
+const person = new Person(
+  "Angel Valladares",
+  26,
+  1.80,
+  75,
+  "🚀 Developer",
+  ["💻 Programming", "🎨 Front-End", "⚙️ Back-End"],
+  ["📖 Reading", "🎵 Listening to music", "🎬 Watching movies"]
+);
 
-type Gender string
-
-
-
-func join(sep string, values ...string) string {
-	return fmt.Sprint(values[0], sep, values[1:])
-}
-
-                    
-
+console.log(person.introduce());
 
 ```
 
