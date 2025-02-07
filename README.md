@@ -5,7 +5,6 @@
 #### If you're interested in learning more about my work or have any questions or suggestions, please feel free to contact me. I'm always open to new collaboration opportunities and committed to continuous improvement. Thank you for visiting my profile!
 
 ### You can reach me via my email addresses:
-- angelvalladares@unah.hn
 - arivalladares2.0@gmail.com
 - My Resume: https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing
 
@@ -17,7 +16,7 @@
 
 
 ### I'm sharing my resume or Curriculum Vitae in case you're an employer and interested in working with me. Greetings!
-#### ((Updated 2025): I am currently working as a Web Dev. 👨‍💻
+#### (Updated 2025): I am currently working as a Web Dev. 👨‍💻
 #### 🚀 Always open to exciting opportunities! If you have an interesting offer, feel free to reach out. Let's connect! 💼✨
 
 #### I have experience working with technologies such as React, Vue, Go, MySQL, PostgreSQL, Bootstrap, Tailwind CSS, Oracle, SQL Server, and JavaScript.
