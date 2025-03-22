@@ -6,7 +6,7 @@
 
 ### You can reach me via my email addresses:
 - arivalladares2.0@gmail.com
-- My Resume: https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing
+- My Resume: [https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing](https://drive.google.com/file/d/1-ofOi5jSJYjjOfcAo3NyfFyQap5WRPju/view?usp=sharing)
 
 #### My other social media profiles:
 [<img align="left" alt="angeldev96 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
