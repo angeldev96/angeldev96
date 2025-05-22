@@ -24,10 +24,8 @@ I work part-time for a company, which gives me the flexibility to take on freela
 📌 You can hire me through these platforms:
 
 - **[My Upwork profile](https://www.upwork.com/freelancers/~0116803452ac7b4ff7?viewMode=1)**  
-- **Contra** (use the button below to hire me directly):
+- **[My Contra profile](https://contra.com/angel_valladares_jj4w3tvu)**  
 
-<div class="contra-hire-me-button" data-analyticsUserId="72f6f214-12c5-4fe4-b449-ae4c52df8295" data-theme="dark" data-username="angel_valladares_jj4w3tvu"></div>
-<script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
 
 
 #### I have experience working with technologies such as React, Vue, Go, MySQL, PostgreSQL, Bootstrap, Tailwind CSS, Oracle, SQL Server, and JavaScript.
