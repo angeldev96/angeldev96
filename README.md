@@ -15,7 +15,7 @@
 
 
 ### I'm sharing my resume or Curriculum Vitae in case you're an employer and interested in working with me. Greetings!
-#### (Updated 2025): I'm currently working as a Web Developer 👨‍💻
+#### (Updated 2025): I'm currently working part-time as a Fullstack Developer at a power plant.
 
 I work part-time for a company, which gives me the flexibility to take on freelance projects.  
 🚀 I'm always open to exciting opportunities! If you have an interesting offer, feel free to reach out. Let’s connect! 💼✨
