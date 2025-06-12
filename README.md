@@ -34,35 +34,34 @@ I work part-time for a company, which gives me the flexibility to take on freela
 
 ```javascript
 class Person {
-  constructor(name, age, height, weight, gender, skills, hobbies) {
+  constructor(name, role, experience, techStack, passions, funFacts) {
     this.name = name;
-    this.age = age;
-    this.height = height;
-    this.weight = weight;
-    this.gender = gender;
-    this.skills = skills;
-    this.hobbies = hobbies;
+    this.role = role;
+    this.experience = experience;
+    this.techStack = techStack;
+    this.passions = passions;
+    this.funFacts = funFacts;
   }
 
   introduce() {
-    return `👋 Hey there! I'm ${this.name}, a ${this.age}-year-old ${this.gender}.\n` +
-           `📏 Height: ${this.height}m | ⚖️ Weight: ${this.weight}kg\n` +
-           `💡 Skills: ${this.skills.join(" | ")}\n` +
-           `🎭 Hobbies: ${this.hobbies.join(" | ")}`;
+    return `👨‍💻 Hello! I'm ${this.name}, a ${this.role} with ${this.experience} of hands-on experience.\n` +
+           `🛠️ Tech Stack: ${this.techStack.join(" | ")}\n` +
+           `🔥 Passionate about: ${this.passions.join(" | ")}\n` +
+           `✨ Fun facts: ${this.funFacts.join(" | ")}`;
   }
 }
 
 const person = new Person(
   "Angel Valladares",
-  26,
-  1.80,
-  75,
-  "🚀 Developer",
-  ["💻 Programming", "🎨 Front-End", "⚙️ Back-End"],
-  ["📖 Reading", "🎵 Listening to music", "🎬 Watching movies"]
+  "Fullstack Developer",
+  "several years",
+  ["React", "Next.js", "NestJS", "GraphQL", "MySQL", "TypeScript"],
+  ["Clean code", "Developer experience", "Building meaningful products"],
+  ["Freelancing", "Practicing English", "Always learning new tech"]
 );
 
 console.log(person.introduce());
+
 
 ```
 
