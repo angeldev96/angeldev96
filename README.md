@@ -1,29 +1,37 @@
+
+---
+
 # Hi there, I'm Angel <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
-## Systems Engineering Student at <a href="https://www.unah.edu.hn/">UNAH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-#### Welcome to my GitHub, where you can find the source code for my projects. I've worked with various technologies to develop web applications.
+## Systems Engineer | Fullstack Developer & Automation Specialist
 
-#### If you're interested in learning more about my work or have any questions or suggestions, please feel free to contact me. I'm always open to new collaboration opportunities and committed to continuous improvement. Thank you for visiting my profile!
+Welcome to my GitHub profile. I'm a Systems Engineer currently holding a permanent position at a hydroelectric power generation company. My role follows a rotational schedule—one week on, one week off—which gives me ample free time that I dedicate to my career as a freelance software developer.
 
+Given my schedule, I have significant availability to take on freelance projects. My expertise lies in Fullstack development (React, Node.js, Python, SQL) and process automation using tools like N8n.
+
+### Interested in collaborating?
+
+I am always open to exciting opportunities! If you have a project in mind, feel free to reach out.
+
+📌 **You can hire me through the following platforms:**
+
+On Upwork, I am a **Top-Rated** freelancer with a proven track record of commitment and high-quality work. My profile showcases:
+*   Hundreds of hours logged across numerous completed projects.
+*   An excellent rating built on client satisfaction.
+*   A strong earnings history reflecting the success and trust in my work.
+
+I invite you to review my profile to learn more about my experience.
+
+- **[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)   [My Upwork Profile](https://www.upwork.com/freelancers/~0116803452ac7b4ff7)** 
+
+- **[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)   [My LinkedIn Profile](https://www.linkedin.com/in/angel-valladares-422490159)**
+
+
+You can also contact me directly via email for any freelance inquiries requiring Fullstack development or automation. Let's connect! 💼✨
+
+---
 ### You can reach me via my email addresses:
 - arivalladares2.0@gmail.com
 - My Resume: [https://drive.google.com/file/d/1I-0582nApkrxhQJldz07nqwOatqBK6kZ/view?usp=sharing](https://drive.google.com/file/d/1-ofOi5jSJYjjOfcAo3NyfFyQap5WRPju/view?usp=sharing)
-
-#### My other social media profiles:
-[<img align="left" alt="angeldev96 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="angeldev96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
-
-
-### I'm sharing my resume or Curriculum Vitae in case you're an employer and interested in working with me. Greetings!
-#### (Updated 2025): I'm currently working part-time as a Fullstack Developer at a power plant.
-
-I work part-time for a company, which gives me the flexibility to take on freelance projects.  
-🚀 I'm always open to exciting opportunities! If you have an interesting offer, feel free to reach out. Let’s connect! 💼✨
-
-📌 You can hire me through these platforms:
-
-- **[My Upwork profile](https://www.upwork.com/freelancers/~0116803452ac7b4ff7?viewMode=1)**  
-- **[My Contra profile](https://contra.com/angel_valladares_jj4w3tvu)**  
 
 
 
@@ -75,7 +83,7 @@ console.log(person.introduce());
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)       ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br />
@@ -92,7 +100,13 @@ console.log(person.introduce());
 
 ### Contact Me:
 
-[<img align="left" alt="angeldev96 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<a href="https://x.com/angeldev96" target="_blank" rel="noopener noreferrer">
+  <svg role="img" viewBox="0 0 24 24" width="22" height="22" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;">
+    <title>X</title>
+    <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/>
+  </svg>
+</a>
+
 [<img align="left" alt="angeldev96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
