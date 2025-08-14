@@ -1,7 +1,7 @@
 
 
 # Hi there! I'm Angel Valladares <img src="https://i.imgur.com/bHA8KE7.gif" width="100">
-### Systems Engineer | n8n Automation Specialist & Fullstack Developer
+### Systems Engineer | n8n AI Automation Specialist & Fullstack Developer
 
 Welcome to my GitHub profile. I'm a passionate Systems Engineer with a strong background in software development. I currently balance my permanent position at a hydroelectric power generation company with my career as a freelance developer. My rotational schedule—one week on, one week off—gives me exceptional availability to dedicate to new projects and collaborations.
 
