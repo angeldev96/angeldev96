@@ -7,24 +7,26 @@ I focus on building scalable web applications and creating efficient, automated 
 
 ---
 
-### 🌟 Proven Track Record & Trust
+### 🌟 Top Rated & Trusted Professional
 
-Trust is key in freelancing. I am proud to be a **Top-Rated Freelancer on Upwork**, a distinction awarded to the top 10% of talent based on earnings and client satisfaction.
+I am proud to be a **Top-Rated Freelancer on Upwork**. This isn't just a badge; it represents hundreds of hours of high-quality delivery and satisfied clients.
 
-**Why clients trust me:**
-*   ✅ **High Job Success Score:** A history of satisfied clients and successful project completions.
+<div align="center">
+  <a href="https://www.upwork.com/freelancers/~0116803452ac7b4ff7" target="_blank">
+    <img src="https://res.cloudinary.com/dqy0f7skk/image/upload/v1766560109/CleanShot_2025-12-24_at_01.05.56_2x_d1nm4j.png" alt="Angel Valladares Upwork Profile Stats" width="100%">
+  </a>
+</div>
+
+<br/>
+
+**Why clients choose me:**
+*   ✅ **High Job Success:** Proven history of happy clients (as seen above).
 *   ✅ **Reliability:** Clear communication and deadlines are my priority.
-*   ✅ **Experience:** Hundreds of billed hours delivering real-world solutions.
-
-👇 **View my verified client reviews and portfolio:**
-
-<a href="https://www.upwork.com/freelancers/~0116803452ac7b4ff7" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Freelancer-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="40">
-</a>
+*   ✅ **Experience:** Real-world solutions delivered consistently.
 
 ---
 
-### 💼 Current Availability
+### 💼 Availability
 
 I currently maintain an active roster of clients through Upwork and direct contracts. **However, I am always open to hearing about exciting new projects.**
 
@@ -39,18 +41,15 @@ I work with a robust set of technologies to bring ideas to life:
 **Automation & AI:**
 <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white"></a>
 
+**Databases:**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 **Frontend & Backend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Databases:**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 **DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
