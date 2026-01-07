@@ -9,7 +9,7 @@ I focus on building scalable web applications and creating efficient, automated 
 
 ### 🌟 Top Rated & Trusted Professional
 
-I am proud to be a **Top-Rated Freelancer on Upwork**. This isn't just a badge; it represents hundreds of hours of high-quality delivery and satisfied clients.
+I am proud to be a **100% Success Score Freelancer on Upwork**. This isn't just a badge; it represents hundreds of hours of high-quality delivery and satisfied clients.
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~0116803452ac7b4ff7" target="_blank">
