@@ -13,7 +13,7 @@ I am proud to be a **100% Success Score Freelancer on Upwork**. This isn't just 
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~0116803452ac7b4ff7" target="_blank">
-    <img src="https://res.cloudinary.com/dqy0f7skk/image/upload/v1766560109/CleanShot_2025-12-24_at_01.05.56_2x_d1nm4j.png" alt="Angel Valladares Upwork Profile Stats" width="100%">
+    <img src="https://res-console.cloudinary.com/dqy0f7skk/thumbnails/v1/image/upload/v1769641635/U0NSLTIwMjYwMTI4LXBhZXpfZ2ZjdGN5/drilldown" alt="Angel Valladares Upwork Profile Stats" width="100%">
   </a>
 </div>
 
