@@ -11,7 +11,7 @@ I focus on building scalable web applications and creating efficient, automated 
 
 I am a **Top Rated Freelancer** with a **100% Job Success Score** on Upwork. This represents hundreds of hours of high-quality delivery, satisfied clients, and consistent 5-star reviews.
 
-[![Angel Valladares Upwork Profile](https://res-console.cloudinary.com/dqy0f7skk/thumbnails/v1/image/upload/v1769641635/U0NSLTIwMjYwMTI4LXBhZXpfZ2ZjdGN5/drilldown)](https://www.upwork.com/freelancers/~0116803452ac7b4ff7)
+[![Angel Valladares Upwork Profile](https://res.cloudinary.com/dqy0f7skk/image/upload/v1769641635/SCR-20260128-paez_gfctcy.png)](https://www.upwork.com/freelancers/~0116803452ac7b4ff7)
 
 ![Top Rated & 100% Job Success](https://media.licdn.com/dms/image/v2/D4D16AQEwzxSBQEJDDA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712364468206?e=2147483647&v=beta&t=ErR1CobCS8iA00wiyYfcmKHPpAoY-nkwXvjvfPhPP8U)
 
