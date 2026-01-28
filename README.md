@@ -7,22 +7,16 @@ I focus on building scalable web applications and creating efficient, automated 
 
 ---
 
-### 🌟 Top Rated & Trusted Professional
+### 🏆 Top Rated Freelancer on Upwork
 
-I am proud to be a **100% Success Score Freelancer on Upwork**. This isn't just a badge; it represents hundreds of hours of high-quality delivery and satisfied clients.
+I am a **Top Rated Freelancer** with a **100% Job Success Score** on Upwork. This represents hundreds of hours of high-quality delivery, satisfied clients, and consistent 5-star reviews.
 
-<div align="center">
-  <a href="https://www.upwork.com/freelancers/~0116803452ac7b4ff7" target="_blank">
-    <img src="https://res-console.cloudinary.com/dqy0f7skk/thumbnails/v1/image/upload/v1769641635/U0NSLTIwMjYwMTI4LXBhZXpfZ2ZjdGN5/drilldown" alt="Angel Valladares Upwork Profile Stats" width="100%">
-  </a>
-</div>
-
-<br/>
+[![Angel Valladares - Top Rated Upwork Freelancer](https://media.licdn.com/dms/image/v2/D4D16AQEwzxSBQEJDDA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712364468206?e=2147483647&v=beta&t=ErR1CobCS8iA00wiyYfcmKHPpAoY-nkwXvjvfPhPP8U)](https://www.upwork.com/freelancers/~0116803452ac7b4ff7)
 
 **Why clients choose me:**
-*   ✅ **High Job Success:** Proven history of happy clients (as seen above).
-*   ✅ **Reliability:** Clear communication and deadlines are my priority.
-*   ✅ **Experience:** Real-world solutions delivered consistently.
+*   🏆 **Top Rated:** Part of the top 10% of freelancers on Upwork.
+*   ✅ **100% Job Success:** Perfect track record with every client.
+*   ⭐ **Reliability:** Clear communication and deadlines are my priority.
 
 ---
 
