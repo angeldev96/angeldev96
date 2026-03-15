@@ -5,6 +5,22 @@ Welcome to my GitHub profile! I am a **Systems Engineer** and a passionate **Ful
 
 I focus on building scalable web applications and creating efficient, automated workflows that save businesses time and resources. Whether you need a complex React application or an intricate n8n automation, I deliver high-quality, maintainable code.
 
+
+
+---
+
+## 📢 Update — March 2026
+
+As of **March 2026**, I have signed a contract to dedicate **100% of my professional time** to a new project and team.
+
+Because of this commitment, I am **no longer accepting freelance work, consulting, or full-time opportunities** at this time.
+
+I want to sincerely thank all the clients, collaborators, and the Upwork community who trusted me with their projects during my freelancing years. Those experiences played a major role in shaping my skills as an engineer and problem solver.
+
+My GitHub will continue to reflect my technical work, experiments, and projects, but **I am currently focused on building within this new long-term engagement.**
+
+Thank you to everyone who has been part of the journey. 🚀
+
 ---
 
 ### 🏆 Top Rated Freelancer on Upwork
