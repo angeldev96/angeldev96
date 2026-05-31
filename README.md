@@ -91,7 +91,7 @@ When I'm not coding or automating workflows, you can find me:
 Ready to start a project? Contact me directly:
 
 *   **Email:** [arivalladares2.0@gmail.com](mailto:arivalladares2.0@gmail.com)
-* **Resume:** [View Resume](https://drive.google.com/file/d/1btUpVmMNL20ekhhwIz5IxikgLr1quOGU/view?usp=sharing)
+* **Resume:** [View Resume](https://drive.google.com/file/d/1NyQW4KFpTTIydROefzri2G7zu5EDi0GA/view?usp=sharing)
 <div align="left">
   <a href="https://www.upwork.com/freelancers/~0116803452ac7b4ff7" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
