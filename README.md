@@ -1,9 +1,9 @@
 # Hi there! I'm Angel Valladares <img src="https://i.imgur.com/bHA8KE7.gif" width="60">
-### Systems Engineer | n8n AI Automation Specialist & Fullstack Developer
+### Systems Engineer | Fullstack (React / Next.js / Node) & Mobile Developer (React Native · Expo)
 
-Welcome to my GitHub profile! I am a **Systems Engineer** and a passionate **Full-time Freelancer** specializing in Fullstack development and Process Automation.
+Welcome to my GitHub profile! I am a **Systems Engineer** and a passionate **Full-time Freelancer** specializing in Fullstack web development and cross-platform mobile apps.
 
-I focus on building scalable web applications and creating efficient, automated workflows that save businesses time and resources. Whether you need a complex React application or an intricate n8n automation, I deliver high-quality, maintainable code.
+I focus on building scalable web applications with **React / Next.js** and shipping **iOS and Android** apps with **React Native (Expo)**. From the frontend to the API and the database, I deliver high-quality, maintainable code.
 
 
 
@@ -42,7 +42,7 @@ I am a **Top Rated Freelancer** with a **100% Job Success Score** on Upwork. Thi
 
 I currently maintain an active roster of clients through Upwork and direct contracts. **However, I am always open to hearing about exciting new projects.**
 
-If you have a clear vision or a challenging problem that requires an expert in **Automation (n8n)** or **Fullstack (React/Node)**, please reach out. If I am fully booked, I will let you know immediately, but I always make time to discuss potential future collaborations.
+If you have a clear vision or a challenging problem that requires an expert in **Fullstack (React / Next.js / Node)** or **Mobile (React Native / Expo)**, please reach out. If I am fully booked, I will let you know immediately, but I always make time to discuss potential future collaborations.
 
 ---
 
@@ -56,6 +56,8 @@ I work with a robust set of technologies to bring ideas to life:
 
 **Frontend & Backend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -66,8 +68,11 @@ I work with a robust set of technologies to bring ideas to life:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Automation & AI:**
-<a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white"></a>
+**Mobile (iOS & Android):**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 **Styling:**
@@ -78,7 +83,7 @@ I work with a robust set of technologies to bring ideas to life:
 
 ### ⚡ A little more about me
 
-When I'm not coding or automating workflows, you can find me:
+When I'm not coding, you can find me:
 *   🏃‍♂️ **Running:** I enjoy morning runs to clear my mind.
 *   ⚡ **Harry Potter Fan:** My favorite book and movie series. <img src="https://cdn.dribbble.com/users/2851002/screenshots/6870633/harry_potter.gif" width="30" style="vertical-align:middle">
 *   🎸 **Music Lover:** I'm into Soft, Hard, and Indie Rock.
