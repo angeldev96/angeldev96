@@ -29,8 +29,6 @@ I am a **Top Rated Freelancer** with a **100% Job Success Score** on Upwork. Thi
 
 ![Angel Valladares Upwork Profile](https://res.cloudinary.com/dqy0f7skk/image/upload/v1789112071/SCR-20260911-cgyu_pcd7ef.png)
 
-![Top Rated & 100% Job Success](https://media.licdn.com/dms/image/v2/D4D16AQEwzxSBQEJDDA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712364468206?e=2147483647&v=beta&t=ErR1CobCS8iA00wiyYfcmKHPpAoY-nkwXvjvfPhPP8U)
-
 **Why clients choose me:**
 *   🏆 **Top Rated:** Part of the top 10% of freelancers on Upwork.
 *   ✅ **100% Job Success:** Perfect track record with every client.
