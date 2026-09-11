@@ -27,7 +27,7 @@ Thank you to everyone who has been part of the journey. 🚀
 
 I am a **Top Rated Freelancer** with a **100% Job Success Score** on Upwork. This represents hundreds of hours of high-quality delivery, satisfied clients, and consistent 5-star reviews.
 
-![Angel Valladares Upwork Profile](https://res.cloudinary.com/dqy0f7skk/image/upload/v1789112071/SCR-20260911-cgyu_pcd7ef.png)
+![Angel Valladares Upwork Profile](https://res.cloudinary.com/dqy0f7skk/image/upload/v1789155767/SCR-20260911-mfhu_zh8m3g.png)
 
 **Why clients choose me:**
 *   🏆 **Top Rated:** Part of the top 10% of freelancers on Upwork.
