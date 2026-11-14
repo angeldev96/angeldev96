@@ -1,0 +1,48 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, 00:17 in Honduras
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - profile.config.json
+      - scripts/**
+      - assets/fonts/**
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch stats
+        env:
+          # PAT with `repo` scope so private repos/commits are counted (optional;
+          # without it the last known totals are kept)
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/fetch_stats.py
+      - name: Build SVGs + README
+        run: python3 scripts/build_profile.py
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md assets
+          git commit -m "chore: refresh profile stats"
+          git push

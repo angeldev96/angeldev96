@@ -1,0 +1,17 @@
+{
+  "repos": 207,
+  "public_repos": 97,
+  "stars": 139,
+  "stars_by_repo": {
+    "Web-Dev-For-Beginners": 1,
+    "dgpraph-setup": 1,
+    "tailwind-aspdotnet": 135,
+    "FullStackOpen": 1,
+    "mail-indexer": 1
+  },
+  "year": 2026,
+  "commits_year": 1223,
+  "prs_year": 750,
+  "commits_total": 3288,
+  "updated": "2026-11-14"
+}
