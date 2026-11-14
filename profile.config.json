@@ -1,0 +1,191 @@
+{
+  "login": "angeldev96",
+  "name": "Angel Valladares",
+  "role": "AI-native software engineer",
+  "focus": "Fullstack, mobile & cloud",
+  "location": "Honduras",
+  "website": "angelvalladares.dev",
+  "status": "Principal engineer at AirPlx",
+  "about": "I'm a Systems Engineer from Honduras who builds production software across the full stack: web apps with React and Next.js, iOS and Android apps with React Native (Expo), and the APIs, databases and infrastructure behind them. AI is the multiplier; engineering judgment is the base.",
+  "about_highlights": [
+    "production software",
+    "React and Next.js",
+    "React Native (Expo)",
+    "AI is the multiplier; engineering judgment is the base."
+  ],
+  "experience": [
+    {
+      "company": "AirPlx",
+      "role": "Software Engineer · Web & Mobile — operations software for FBOs",
+      "period": "Mar 2026 — Present",
+      "current": true
+    },
+    {
+      "company": "Upwork",
+      "role": "Full-Stack Engineer · Top Rated, 100% Job Success",
+      "period": "Apr 2025 — Mar 2026"
+    },
+    {
+      "company": "Copenergy SA",
+      "role": "Full-Stack Developer & Electrical Plant Operator",
+      "period": "Jul 2024 — Dec 2025"
+    },
+    {
+      "company": "DAI",
+      "role": "IT Auxiliary / IT Intern",
+      "period": "Feb 2023 — Jan 2024"
+    },
+    {
+      "company": "UNAH",
+      "role": "B.S. Systems Engineering",
+      "period": "Education"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AirPlx Mobile",
+      "desc": "Production iOS and Android app for FBO ground operations.",
+      "tags": [
+        "React Native",
+        "Expo",
+        "TypeScript"
+      ],
+      "status": "In production",
+      "url": "https://airplx.com",
+      "color": "violet",
+      "glyph": "A"
+    },
+    {
+      "name": "AirPlx Web Platform",
+      "desc": "Live base view, flight tracking, visit history and tenant reporting.",
+      "tags": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "status": "In production",
+      "url": "https://airplx.com",
+      "color": "cyan",
+      "glyph": "W"
+    },
+    {
+      "name": "Pinky's Store",
+      "desc": "E-commerce storefront and inventory for a beauty retailer in San Pedro Sula.",
+      "tags": [
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "status": "Live",
+      "url": "https://www.pinkysstorehn.com/",
+      "color": "pink",
+      "glyph": "P"
+    },
+    {
+      "name": "tailwind-aspdotnet",
+      "desc": "Adding Tailwind CSS to ASP.NET 6 MVC.",
+      "tags": [
+        "C#",
+        "ASP.NET",
+        "Tailwind"
+      ],
+      "repo": "tailwind-aspdotnet",
+      "url": "https://github.com/angeldev96/tailwind-aspdotnet",
+      "color": "amber",
+      "glyph": "T"
+    }
+  ],
+  "stack": [
+    {
+      "group": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Material UI"
+      ]
+    },
+    {
+      "group": "Mobile",
+      "items": [
+        "React Native",
+        "Expo",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
+      "group": "Backend",
+      "items": [
+        "Node.js",
+        "Express",
+        "Python"
+      ]
+    },
+    {
+      "group": "Data",
+      "items": [
+        "PostgreSQL",
+        "Supabase",
+        "MySQL",
+        "SQL Server"
+      ]
+    },
+    {
+      "group": "Infra",
+      "items": [
+        "Docker",
+        "Linux",
+        "GitHub Actions"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "id": "website",
+      "icon": "globe",
+      "label": "Website",
+      "url": "https://angelvalladares.dev/en",
+      "color": "violet"
+    },
+    {
+      "id": "linkedin",
+      "icon": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/angel-valladares-422490159",
+      "color": "linkedin"
+    },
+    {
+      "id": "x",
+      "icon": "x",
+      "label": "X",
+      "url": "https://x.com/angeldev96",
+      "color": "text"
+    },
+    {
+      "id": "email",
+      "icon": "mail",
+      "label": "Email",
+      "url": "mailto:arivalladares2.0@gmail.com",
+      "color": "pink"
+    }
+  ],
+  "interests": [
+    {
+      "label": "Morning runs",
+      "color": "emerald"
+    },
+    {
+      "label": "Harry Potter",
+      "color": "amber"
+    },
+    {
+      "label": "Indie rock",
+      "color": "pink"
+    },
+    {
+      "label": "The Strokes · Tame Impala · Arctic Monkeys",
+      "color": "violet"
+    }
+  ]
+}
